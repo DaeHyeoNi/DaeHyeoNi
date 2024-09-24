@@ -1,13 +1,18 @@
-## Work Experience
+### Work Experience
 
-### Backend Developer (Python) | [Kasa Korea](https://kasa.co.kr/) | 2022.10 - Present
+#### Backend Developer (Python) | [Kasa Korea](https://kasa.co.kr/) | 2022.10 - Present
 - Engaged in backend development for a service that enables fractional investments in various assets. Utilized Python frameworks and RESTful APIs to enhance service functionality and user experience.
 
-### DevOps & Backend Developer (C#) | [Toonation](https://toon.at/) | 2020.10 - 2022.09
+#### DevOps & Backend Developer (C#) | [Toonation](https://toon.at/) | 2020.10 - 2022.09
  - Played a pivotal role in developing a real-time streaming donation web platform, focusing on scalable and responsive backend solutions using C#.
  - [Engineered the core system facilitating seamless settlements and payments for streamers, enhancing the overall user experience and financial processes.](https://payment.toothlife.co.kr/)
  - Spearheaded the design and implementation of a robust build and continuous integration/deployment (CI/CD) system, enhancing the overall development workflow and ensuring efficient code delivery.
  - Established a server monitoring system using tools like Prometheus and Grafana, greatly enhancing system reliability through proactive issue identification and resolution.
+
+<br />
+
+#### OpenPGP
+public key: [File](https://keys.openpgp.org/vks/v1/by-fingerprint/2FCA98B58F4568C44738CA3230CDEC83DE32BD4D) [`2FCA 98B5 8F45 68C4 4738 CA32 30CD EC83 DE32 BD4D`]
 
 <br /><br /><br />
 
