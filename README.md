@@ -11,11 +11,6 @@
 ### OpenPGP
 Public Key: [`2FCA 98B5 8F45 68C4 4738 CA32 30CD EC83 DE32 BD4D`](https://keys.openpgp.org/vks/v1/by-fingerprint/2FCA98B58F4568C44738CA3230CDEC83DE32BD4D)
 
-### GitHub Stats
-|   |   |
-|---|---|
-|![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daehyeoni&count_private=true)|![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daehyeoni&layout=compact&hide=html,css&langs_count=6)|
-
 <details>
   <summary>Technical Skills</summary>
   
