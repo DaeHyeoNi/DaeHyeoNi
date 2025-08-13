@@ -19,11 +19,12 @@
     <summary>Demo</summary>
     https://www.youtube.com/shorts/PCMkheq27e4
   </details>
+- Improved website SEO and optimized search visibility  
 
 **Shopping Mall Projects**  
 - Built infrastructure and integrated Toonation API for the [Shopping mall](https://shop.toon.at)  
 - Independently developed an early-stage prototype shopping mall (backend & infrastructure)  
-- Improved website SEO and optimized search visibility  
+
 
 ### OpenPGP
 Public Key: [`2FCA 98B5 8F45 68C4 4738 CA32 30CD EC83 DE32 BD4D`](https://keys.openpgp.org/vks/v1/by-fingerprint/2FCA98B58F4568C44738CA3230CDEC83DE32BD4D)
