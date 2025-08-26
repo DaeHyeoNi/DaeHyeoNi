@@ -9,21 +9,33 @@
 **Tech Stack:** C#, Python, PHP  
 - Developed and scaled a real-time streaming donation platform for content creators  
 - [Designed and implemented a secure payment settlement system for streamers](https://payment.toothlife.co.kr/)  
-- Built and operated AWS serverless-based APIs  
-- Created and maintained CI/CD pipelines using GitLab CI  
-- Implemented real-time system health monitoring with Prometheus and Grafana  
-- Developed donor engagement features: shared video viewing, automatic recharge when donation balance was insufficient, TTS (Text-to-Speech) donation using the creator’s voice  
-- Maintained and enhanced interactive donation features: “Quest Donation”, “Karaoke Donation” 
-  - improved song data storage design and maintained coupon system
+
+- Enhanced **service reliability & operational efficiency**  
+  - Applied automated circuit breaker for continuous failures → seamless fallback to alternative services  
+  - Built real-time monitoring with Prometheus & Grafana, integrated admin notifications  
+  - Provided proactive incident response, ensuring stability even during urgent off-hour issues  
+
+- Built and operated **cloud-native infrastructure & CI/CD**  
+  - Developed AWS serverless-based APIs  
+  - Created and maintained CI/CD pipelines using GitLab CI  
+
+- Developed **donor engagement features**  
+  - Shared video viewing experience  
+  - Automatic recharge when donation balance was insufficient  
+  - TTS (Text-to-Speech) donations using the creator’s voice  
+
+- Maintained and enhanced **interactive donation services**  
+  - “Quest Donation” (mission-based donations)  
+  - “Karaoke Donation” (song requests with lyrics sync)  
+  - Improved song data storage design and maintained coupon system  
   <details>
     <summary>Demo</summary>
     https://www.youtube.com/shorts/PCMkheq27e4
   </details>
-- Improved website SEO and optimized search visibility  
 
-**Shopping Mall Projects**  
-- Built infrastructure and integrated Toonation API for the [Shopping mall](https://shop.toon.at)  
-- Independently developed an early-stage prototype shopping mall (backend & infrastructure)  
+- Shopping Mall Projects  
+  - Built infrastructure and integrated Toonation API for the [Shopping mall](https://shop.toon.at)  
+  - Independently developed an early-stage prototype (backend & infrastructure)  
 
 
 ### OpenPGP
