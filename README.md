@@ -7,6 +7,10 @@
 
 #### DevOps & Backend Developer | [Toonation](https://toon.at/) | 2020.10 – 2022.09  
 **Tech Stack:** C#, Python, PHP  
+
+<details>
+  <summary>Details</summary>
+
 - Developed and scaled a real-time streaming donation platform for content creators  
 - [Designed and implemented a secure payment settlement system for streamers](https://payment.toothlife.co.kr/)  
 
@@ -33,9 +37,11 @@
     https://www.youtube.com/shorts/PCMkheq27e4
   </details>
 
-- Shopping Mall Projects  
+- **Shopping Mall Projects**  
   - Built infrastructure and integrated Toonation API for the [Shopping mall](https://shop.toon.at)  
   - Independently developed an early-stage prototype (backend & infrastructure)  
+
+</details>
 
 
 ### OpenPGP
