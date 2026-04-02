@@ -1,7 +1,7 @@
 ### Work Experience
 
 
-#### Backend Developer | [Kasa Korea](https://kasa.co.kr/) | 2022.10 – Present  
+#### Backend Developer | [Kasa Korea](https://kasa.co.kr/) | 2022.10 – 2026.04  
 **Tech Stack:** Python, Django  
 - Developing fractional investments in various assets platform by Python web frameworks  
 
